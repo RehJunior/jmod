@@ -1,0 +1,8 @@
+{
+	"name": "jmod",
+	"version": "0.1.1",
+	"label": "Jaggeds Mod - More Resource to gather",
+	"url": "",
+	"description": "Jaggeds Mod - More Resource to gather",
+	"dependencies": ["0ad=0.0.26"]
+}
